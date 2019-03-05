@@ -7,7 +7,7 @@
 
 # Site settings
 title: "宋子义的博客"
-brief-intro: "System Research"
+brief-intro: "感谢您的访问"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://songine.github.io/" # the base hostname & protocol for your site
 
@@ -17,13 +17,13 @@ permalink: /:year/:month/:day/:title/
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
 github_username:  songine
-email: u3004330@connect.hku.hk
+email: songine@foxmail.com
 weibo_username: 
 zhihu_username: 
-linkedIn_username: xinyao1994
+linkedIn_username: songine
 dribbble_username:
 
-description_footer: 来自姚信的个人专栏！
+description_footer: Songine Blog
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,9 +35,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 52bbb620d9680fd85254                            #生成的clientID
   clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  repo: songine.github.io    #仓库名称
+  owner: songine    #github用户名
+  admin: songine
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
