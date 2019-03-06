@@ -25,5 +25,5 @@ Nova是OpenStack云中的**计算组织控制器**。支持OpenStack云中实例
 * Nova是openstack中最核心的组件。openstack的其他组件归根结底是为Nova组件服务的。
 * Nova服务是由多个子服务构成，子服务是通过RPC实现通信。服务之间有很松的==耦合性==。
 * 概念框架与逻辑框架的对应
-![nova1](nova1.png)
+![nova1](https://raw.githubusercontent.com/songine/songine.github.io/master/img/nova1.png)
 
